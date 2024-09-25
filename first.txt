@@ -1,2 +1,1 @@
-Hi,This is first file in Git master Branch
-Updated for Merge branch conflict practice in feature1
+This feature1 Branch data updated to verify merge conflict"
