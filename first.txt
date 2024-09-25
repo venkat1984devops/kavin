@@ -1,11 +1,1 @@
-<<<<<<< HEAD
 This feature1 Branch data updated to verify merge conflict"
-=======
-Hi,This is first file in Git master Branch
-<<<<<<< HEAD
-Merge branch conflcit example
-
-=======
-Updated for Merge branch conflict practice in feature1
->>>>>>> origin/master
->>>>>>> origin/master
