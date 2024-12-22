@@ -1,6 +1,6 @@
 OM
 
-Devops Class Notes
+# Devops Class Notes
 
 [Install Ubuntu 24.04] : wsl --install -d Ubuntu-24.04
 
